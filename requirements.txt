@@ -1,0 +1,10 @@
+Ollama
+langchain 
+langchain_community
+langchain_core
+langchain_text_splitters
+chromadb
+langchain_chroma
+langchain_openai
+bs4
+langchainhub 
